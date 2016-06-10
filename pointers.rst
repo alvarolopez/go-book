@@ -174,7 +174,7 @@ Since we can access variables, assign values to them using only their names, one
 might wonder why and how pointers are useful.
 This is a very legitimate question, and you'll see the answer is quite simple.
 
-Suppose that your program as it runs needs some to store some results in some
+Suppose that your program as it runs needs to store some results in some
 new variables not already declared. How would it do that?
 You'll say: I'll prepare some variables just in case. But wait, what if the
 number of new variables differs on each execution of your program?
